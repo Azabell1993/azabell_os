@@ -1,0 +1,5 @@
+# Ignore memo_compile.sh
+memo_compile.sh
+
+# Ignore the build directory and its contents
+build/
